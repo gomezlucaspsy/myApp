@@ -19,8 +19,8 @@
 }
 
 button.round {
-  background-color: #48abe0;
-  color: white;
+  background-color: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+  color: grey;
   border: none;
   padding: 5px;
   font-size: 31px;
