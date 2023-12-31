@@ -29,3 +29,8 @@ button.round {
   box-shadow: 0 2px 4px darkslategray;
   border-radius: 50%;
 }
+
+.horizontal
+  {
+    writing-mode: vertical-rl;
+  }
