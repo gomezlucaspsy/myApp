@@ -1,6 +1,5 @@
 import './App.css';
 import { useState } from 'react';
-import About from './components/About'
 
 
 function App() {
@@ -11,7 +10,7 @@ function App() {
       <header className="App-header">
       <h1>Welcome to the Air Traffic Control (ATC)</h1>
       {show &&
-      <div>
+      <div className='ControlPanel'>
       <iframe width="400" height="225" src="https://www.youtube.com/embed/ywgAZw8JKeY?si=63NDsbi5Zm5Xbdyn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       <iframe width="400" height="225" src="https://www.youtube.com/embed/IMtKOLghyk4?si=QFvbkUaa9GGVx6FE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       <iframe width="400" height="225" src="https://www.youtube.com/embed/lSRvsfr-kpg?si=G8uK_k_ELkuWqn4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -19,9 +18,7 @@ function App() {
       </div>
       }
       <button class="round" type='button' onClick={()=>setShow(!show)}> 
-      {show === true ? "Hide": "Show"}</button>
-
-      <About/>
+      {show === true ? "Hide Control Panel": "Show Control Panel"}</button>
       </header>
     </div>
   );
