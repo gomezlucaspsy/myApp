@@ -33,6 +33,6 @@ button.round {
   border: solid orangered;
   padding: 10px;
   margin: 10px;
-  border-radius: 10px 10px 10px 10px;
+  border-radius: 2px 2px 2px 2px;
 }
 
