@@ -18,7 +18,7 @@ function App() {
 </svg>Admin</a></li>
       <li><a href="https://youtu.be/1esTygT7upo" className='App-link'>ATC ARGENTINA</a></li>
         <li><a href="https://files.ar.ivao.aero/Training/Manuales/Fraseologia.pdf" className='App-link'>Dictionary ES</a></li>
-        <li><a href="" className='App-link'>3</a></li>
+        <li><a href="https://www.google.com/maps" className='App-link'>GPS</a></li>
         <input type="text" placeholder="Search.."></input>
         </ul>
       </div>
