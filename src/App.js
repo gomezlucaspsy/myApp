@@ -11,8 +11,8 @@ function App() {
       <h1>News Online</h1>
       {show &&
       <div className='ControlPanel'>
-      TN<iframe width="400" height="225" src="https://www.youtube.com/embed/cb12KmMMDJA" title="TN EN VIVO I SEGUÍ LA TRANSMISIÓN DE TODO NOTICIAS EN VIVO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-      TAIWAN<iframe width="400" height="225" src="https://www.youtube.com/embed/2mCSYvcfhtc" title="【ON AIR】TVBS新聞台 24 小時直播 |Taiwan News Live|台湾TVBS NEWS世界中のニュースを24時間配信中 | 대만 TVBS뉴스 24시간 생방송" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
+      TN<iframe width="400" height="225" src="https://www.youtube.com/embed/cb12KmMMDJA" title="TN EN VIVO I SEGUÍ LA TRANSMISIÓN DE TODO NOTICIAS EN VIVO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></br>
+      TAIWAN<iframe width="400" height="225" src="https://www.youtube.com/embed/2mCSYvcfhtc" title="【ON AIR】TVBS新聞台 24 小時直播 |Taiwan News Live|台湾TVBS NEWS世界中のニュースを24時間配信中 | 대만 TVBS뉴스 24시간 생방송" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></br> 
       AL JAZEERA<iframe width="400" height="225" src="https://www.youtube.com/embed/bNyUyrR0PHo" title="Al Jazeera Arabic Live قناة الجزيرة | البث الحي | البث المباشر" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       </div>
       }
