@@ -1,1 +1,1 @@
-https://vercel.com/gomezlucaspsys-projects/myapp
+myapp-m1zgz6iop-gomezlucaspsys-projects.vercel.app
