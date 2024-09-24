@@ -14,7 +14,8 @@ function App() {
       TN<br></br>
       <iframe width="400" height="225" src="https://www.youtube.com/embed/cb12KmMMDJA" title="TN EN VIVO I SEGUÍ LA TRANSMISIÓN DE TODO NOTICIAS EN VIVO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></br><hr></hr>
       TAIWAN<br></br><iframe width="400" height="225" src="https://www.youtube.com/embed/2mCSYvcfhtc" title="【ON AIR】TVBS新聞台 24 小時直播 |Taiwan News Live|台湾TVBS NEWS世界中のニュースを24時間配信中 | 대만 TVBS뉴스 24시간 생방송" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></br><hr></hr> 
-      AL JAZEERA<br></br><iframe width="400" height="225" src="https://www.youtube.com/embed/bNyUyrR0PHo" title="Al Jazeera Arabic Live قناة الجزيرة | البث الحي | البث المباشر" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      AL JAZEERA<br></br><iframe width="400" height="225" src="https://www.youtube.com/embed/bNyUyrR0PHo" title="Al Jazeera Arabic Live قناة الجزيرة | البث الحي | البث المباشر" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br></br><hr></hr>
+      DEUSTCH<br></br><iframe width="400" height="225" src="https://www.youtube.com/embed/CQ3KsEbsYHs" title="Euronews deutsch LIVE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br></br><hr></hr>
       </div>
       }
       <button class="round" type='button' onClick={()=>setShow(!show)}> 
