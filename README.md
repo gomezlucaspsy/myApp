@@ -1,1 +1,1 @@
-myapp-m1zgz6iop-gomezlucaspsys-projects.vercel.app
+https://myapp-steel-ten.vercel.app/
